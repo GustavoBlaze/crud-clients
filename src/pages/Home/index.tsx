@@ -1,10 +1,4 @@
-import React, {
-  useEffect,
-  useState,
-  useRef,
-  InputHTMLAttributes,
-  FormHTMLAttributes,
-} from "react";
+import React, { useEffect, useState, useRef } from "react";
 
 import {
   Flex,
